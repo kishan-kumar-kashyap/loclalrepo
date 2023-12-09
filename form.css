@@ -1,5 +1,5 @@
 body{
-    background-image: url("/write.jpg");
+    background-image: url("write.jpg");
     background-size: cover;
     box-shadow: 30px,30px;
 }
