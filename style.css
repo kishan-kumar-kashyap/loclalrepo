@@ -56,7 +56,7 @@ h1{
 /* rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr */
 /* sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss */
 #social{
-  background-image: url("/bannerlogo.png");
+  background-image: url("bannerlogo.png");
   background-size: cover;
   background-image: fixed;
 }
