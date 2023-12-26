@@ -80,14 +80,27 @@
             transition-duration: 3s;
             
         }
-       
+         #video-background {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            z-index: -1;
+        }
       
 
     </style>
 
 </head>
 
-<body id="b1">
+<body id="bb">
+     <video id="video-background" autoplay muted loop>
+        <!-- Replace 'your-video.mp4' with the path to your video file -->
+        <source src="background.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
     <h1 id="one" >KISHAN KUMAR KASHYAP'S HOMEPAGE
     </h1></pre>
     <h1 id="two" > Explore My Website's </h1><br>
